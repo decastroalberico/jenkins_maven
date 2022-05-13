@@ -1,6 +1,6 @@
 <html>
 <body>
-<h2>Hello World! Bem vindos ao Jenkins...</h2>
-  <p>Valeu 2tinr!</p>
+<h2>Hello World!</h2>
+  <p>Quinta-Feira 12!</p>
 </body>
 </html>
